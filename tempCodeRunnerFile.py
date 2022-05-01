@@ -1,1 +1,1 @@
-print(fileContents)
+print(tf)
